@@ -1,0 +1,1 @@
+# pureJS-character-counter
